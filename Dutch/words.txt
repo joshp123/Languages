@@ -8,3 +8,7 @@ zodoende - consequently
 buik - belly
 vreeten - to eat
 staart - tail
+enige - some
+verscheidene - several
+weinige - few
+enig - any
