@@ -12,3 +12,4 @@ enige - some
 verscheidene - several
 weinige - few
 enig - any
+tenzij - unless
