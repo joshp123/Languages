@@ -13,3 +13,5 @@ verscheidene - several
 weinige - few
 enig - any
 tenzij - unless
+beweren - to claim
+verlangen - to long/to desire
